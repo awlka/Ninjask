@@ -32,24 +32,6 @@
     text-align: center;
 }
 
-/* Add a little circle in the middle of the border-bottom */
-// .author-profile:after {
-//     display: block;
-//     content: "";
-//     width: 7px;
-//     height: 7px;
-//     border: #E7EEF2 1px solid;
-//     position: absolute;
-//     bottom: -5px;
-//     left: 50%;
-//     margin-left: -5px;
-//     background: #FFF;
-//     -webkit-border-radius: 100%;
-//     -moz-border-radius: 100%;
-//     border-radius: 100%;
-//     box-shadow: #FFF 0 0 0 5px;
-// }
-
 .author-image {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -64,7 +46,6 @@
     border-radius: 100%;
     overflow: hidden;
     padding: 6px;
-    background: #0C0C0C;
     z-index: 2;
     box-shadow: #E7EEF2 0 0 0 1px;
 }
