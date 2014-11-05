@@ -1,5 +1,5 @@
 /**
- * Duskull Gruntfile!
+ * Ninjask Gruntfile!
  */
 'use strict';
 
